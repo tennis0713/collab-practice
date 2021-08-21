@@ -1,0 +1,36 @@
+#my_title{
+    text-align: center;
+}
+
+#my_nav{
+    background-color: darkgray;
+    text-align: center;
+}
+
+#my_container{
+
+}
+
+#my_row{
+    background-color: red;
+    color: white;
+    text-align: center;
+    height: 600px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    clear: both;
+    /* border: solid black; */
+    /* margin: 25px; */
+}
+
+.col-6{
+    border: solid black;
+    height: 100%;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
